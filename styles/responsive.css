@@ -1,0 +1,199 @@
+@media all and (max-width: 720px) {
+
+    .header {
+        height: 50px;
+    }
+
+    .logo {
+        font-size: 20px;
+        font-family: Impact;
+        color: #f7f7f7;
+        float: left;
+        margin-left: 20px;
+    }
+
+    .navBar {
+        margin-right: 10px;
+    }
+
+    .navBar li {
+        font-size: 12px;
+    }
+
+    .copy-container {
+        height: 350px;
+        background-image: url('../images/cover.jpg');
+        background-size: cover;
+    }
+
+    .main {
+        width: 100%;
+        text-align: center;
+    }
+
+    .main h1 {
+        padding-top: 30px;
+        font-size: 35px;
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+    .main p {
+        font-size: 11px;
+        color: #ffffff;
+        padding: 10px 15%;
+    }
+
+    .mainContents {
+        padding: 50px 20px;
+    }
+
+    .img img {
+        margin-top: 25px;
+        width: 45%;
+    }
+
+    .contents {
+        width: 53%;
+    }
+
+    .contents h1 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .contents p {
+        font-weight: lighter;
+        line-height: 15px;
+        font-size: 11px;
+    }
+
+    .contents2 p {
+        text-align: right;
+        font-weight: lighter;
+        line-height: 15px;
+        font-size: 12px;
+    }
+
+    .contents2 h1 {
+        text-align: right;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .footer-logo {
+        margin-left: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-top: 20px;
+        font-size: x-large;
+    }
+
+    .footer-list {
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .footer-list li {
+        font-size: 12px;
+    }
+}
+
+@media all and (max-width: 900px) {
+
+    .logo {
+        font-size: 20px;
+        font-family: Impact;
+        color: #f7f7f7;
+        float: left;
+        margin-left: 20px;
+    }
+
+    .navBar {
+        margin-right: 10px;
+    }
+
+    .navBar li {
+        font-size: 12px;
+    }
+
+    .copy-container {
+        height: 350px;
+        background-image: url('../images/cover.jpg');
+        background-size: cover;
+    }
+
+    .main {
+        width: 100%;
+        text-align: center;
+    }
+
+    .main h1 {
+        font-size: 35px;
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+    .main p {
+        font-size: 11px;
+        color: #ffffff;
+        padding: 10px 15%;
+    }
+
+    .mainContents {
+        padding: 50px 20px;
+    }
+
+    .img img {
+        margin-top: 25px;
+        width: 50%;
+    }
+
+    .contents {
+        width: 47%;
+    }
+
+    .contents h1 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .contents p {
+        font-weight: lighter;
+        line-height: 15px;
+        font-size: 12px;
+    }
+
+    .photos2 {
+        display: flex;
+        margin-top: 90px;
+    }
+
+    .contents2 p {
+        text-align: right;
+        font-weight: lighter;
+        line-height: 15px;
+        font-size: 12px;
+    }
+
+    .contents2 h1 {
+        text-align: right;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .footer-logo {
+        margin-left: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-top: 20px;
+        font-size: x-large;
+    }
+
+    .footer-list {
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .footer-list li {
+        font-size: 12px;
+    }
+}
